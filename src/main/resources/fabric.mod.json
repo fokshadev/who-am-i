@@ -8,7 +8,8 @@
     "Foksha"
   ],
   "contact": {
-    "website": "foksha.me"
+    "sources": "https://github.com/fokshadev/who-am-i",
+    "website": "https://modrinth.com/mod/whoami"
   },
   "license": "MIT",
   "environment": "client",
@@ -19,6 +20,6 @@
   ],
   "depends": {
     "fabricloader": ">=0.16",
-    "minecraft": ">=1.21.3"
+    "minecraft": ">=26.1"
   }
 }
